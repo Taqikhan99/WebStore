@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebAppStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAppStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\default-css.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default-css.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\metisMenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\metisMenu.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\typography.css",
+      "PackagePath": "staticwebassets\\assets\\css\\typography.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\author\\author-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author\\author-img1.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\author\\author-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author\\author-img2.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\author\\author-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author\\author-img3.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\author\\author-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author\\author-img4.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\author\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\author\\avatar.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\bg\\singin-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\singin-bg.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\blog\\post-thumb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-thumb1.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\blog\\post-thumb2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post-thumb2.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img1.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img10.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img2.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img3.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img4.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img5.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img6.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img7.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img8.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\card\\card-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\card\\card-img9.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\loader.gif"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\logo2.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\icon1.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\icon2.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\icon3.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\icon4.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\trends-down-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\trends-down-icon.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\trends-up-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\trends-up-icon.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\triangle-down.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\triangle-down.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\icon\\market-value\\triangle-up.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\market-value\\triangle-up.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\media\\media1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media1.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\media\\media2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media2.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\team\\team-author1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-author1.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\team\\team-author2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-author2.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\team\\team-author3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-author3.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\team\\team-author4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-author4.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\images\\team\\team-author5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-author5.jpg"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\bar-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bar-chart.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\line-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\line-chart.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\maps.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\pie-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pie-chart.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\403.html",
+      "PackagePath": "staticwebassets\\srtdash\\403.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\404.html",
+      "PackagePath": "staticwebassets\\srtdash\\404.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\500.html",
+      "PackagePath": "staticwebassets\\srtdash\\500.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\accordion.html",
+      "PackagePath": "staticwebassets\\srtdash\\accordion.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\alert.html",
+      "PackagePath": "staticwebassets\\srtdash\\alert.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\badge.html",
+      "PackagePath": "staticwebassets\\srtdash\\badge.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\barchart.html",
+      "PackagePath": "staticwebassets\\srtdash\\barchart.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\button-group.html",
+      "PackagePath": "staticwebassets\\srtdash\\button-group.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\button.html",
+      "PackagePath": "staticwebassets\\srtdash\\button.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\cards.html",
+      "PackagePath": "staticwebassets\\srtdash\\cards.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\datatable.html",
+      "PackagePath": "staticwebassets\\srtdash\\datatable.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\dropdown.html",
+      "PackagePath": "staticwebassets\\srtdash\\dropdown.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\fontawesome.html",
+      "PackagePath": "staticwebassets\\srtdash\\fontawesome.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\forgot-password.html",
+      "PackagePath": "staticwebassets\\srtdash\\forgot-password.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\form.html",
+      "PackagePath": "staticwebassets\\srtdash\\form.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\grid.html",
+      "PackagePath": "staticwebassets\\srtdash\\grid.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\index.html",
+      "PackagePath": "staticwebassets\\srtdash\\index.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\index2.html",
+      "PackagePath": "staticwebassets\\srtdash\\index2.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\index3-horizontalmenu.html",
+      "PackagePath": "staticwebassets\\srtdash\\index3-horizontalmenu.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\index3.html",
+      "PackagePath": "staticwebassets\\srtdash\\index3.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\invoice.html",
+      "PackagePath": "staticwebassets\\srtdash\\invoice.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\linechart.html",
+      "PackagePath": "staticwebassets\\srtdash\\linechart.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\list-group.html",
+      "PackagePath": "staticwebassets\\srtdash\\list-group.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\login.html",
+      "PackagePath": "staticwebassets\\srtdash\\login.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\login2.html",
+      "PackagePath": "staticwebassets\\srtdash\\login2.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\login3.html",
+      "PackagePath": "staticwebassets\\srtdash\\login3.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\maps.html",
+      "PackagePath": "staticwebassets\\srtdash\\maps.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\media-object.html",
+      "PackagePath": "staticwebassets\\srtdash\\media-object.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\modal.html",
+      "PackagePath": "staticwebassets\\srtdash\\modal.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\pagination.html",
+      "PackagePath": "staticwebassets\\srtdash\\pagination.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\piechart.html",
+      "PackagePath": "staticwebassets\\srtdash\\piechart.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\popovers.html",
+      "PackagePath": "staticwebassets\\srtdash\\popovers.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\pricing.html",
+      "PackagePath": "staticwebassets\\srtdash\\pricing.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\progressbar.html",
+      "PackagePath": "staticwebassets\\srtdash\\progressbar.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\register.html",
+      "PackagePath": "staticwebassets\\srtdash\\register.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\register2.html",
+      "PackagePath": "staticwebassets\\srtdash\\register2.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\register3.html",
+      "PackagePath": "staticwebassets\\srtdash\\register3.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\register4.html",
+      "PackagePath": "staticwebassets\\srtdash\\register4.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\reset-pass.html",
+      "PackagePath": "staticwebassets\\srtdash\\reset-pass.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\screenlock.html",
+      "PackagePath": "staticwebassets\\srtdash\\screenlock.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\screenlock2.html",
+      "PackagePath": "staticwebassets\\srtdash\\screenlock2.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\starter.html",
+      "PackagePath": "staticwebassets\\srtdash\\starter.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\tab.html",
+      "PackagePath": "staticwebassets\\srtdash\\tab.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\table-basic.html",
+      "PackagePath": "staticwebassets\\srtdash\\table-basic.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\table-layout.html",
+      "PackagePath": "staticwebassets\\srtdash\\table-layout.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\themify.html",
+      "PackagePath": "staticwebassets\\srtdash\\themify.html"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\srtdash\\typography.html",
+      "PackagePath": "staticwebassets\\srtdash\\typography.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAppStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAppStore.props",
+      "PackagePath": "build\\WebAppStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppStore.props",
+      "PackagePath": "buildMultiTargeting\\WebAppStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAppStore.props",
+      "PackagePath": "buildTransitive\\WebAppStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,59 @@
+﻿@model WebAppStore.ViewModels.LoginViewModel
+<!DOCTYPE html>
+
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/lib/jquery-validate/jquery.validate.min.js"></script>
+
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    @*<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>*@
+
+</head>
+
+
+
+<body class="loginBack" style="font-family:'Arial Rounded MT'">
+
+    <div class="container p-3 w-75 mt-5 mx-auto shadow bg-dark text-light" style="max-width:600px;border-radius:1rem">
+
+        <div class="row mb-5">
+
+            <h2 class="text-center">Login</h2>
+        </div>
+
+        <div class="p-3">
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="row mb-3">
+
+                    <input type="text" placeholder="Enter Your Email" class="form-control" asp-for="Email" />
+                    <span class="text-danger" asp-validation-for="Email"></span>
+                </div>
+                <div class="row mb-3">
+
+                    <input type="password" placeholder="Enter Your Password" class="form-control" asp-for="Password" />
+                    <span class="text-danger" asp-validation-for="Password"></span>
+
+                </div>
+
+                Create New Account. <a class="text-primary" asp-action="Register" asp-controller="Account" >Register</a>
+                <div class="mt-5">
+
+                    <input type="submit" value="Login" class="btn text-center form-control btn-primary p-2 text-light mb-3" />
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+</body>
