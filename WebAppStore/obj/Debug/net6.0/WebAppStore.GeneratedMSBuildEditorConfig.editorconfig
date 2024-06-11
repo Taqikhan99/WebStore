@@ -9,53 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAppStore
 build_property.RootNamespace = WebAppStore
-build_property.ProjectDir = D:\WebAppStore\WebAppStore\
+build_property.ProjectDir = D:\Taqi\Practice\WebAppStore\WebAppStore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\WebAppStore\WebAppStore
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Taqi\Practice\WebAppStore\WebAppStore
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/WebAppStore/WebAppStore/Views/Account/Login.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Account/Register.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Admin/Index.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Home/Index.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Admin/UsersLists.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnNMaXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Brand/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Home/Privacy.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Shared/Error.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Laptop/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFwdG9wXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Laptop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFwdG9wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Shared/_Layout1.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/_ViewImports.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/_ViewStart.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebAppStore/WebAppStore/Views/Shared/_Layout.cshtml]
+[D:/Taqi/Practice/WebAppStore/WebAppStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rnwak9pri2

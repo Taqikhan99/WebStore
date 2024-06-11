@@ -541,3 +541,5 @@ D:\Taqi\Practice\WebAppStore\WebAppStore\bin\Debug\net6.0\Microsoft.AspNetCore.M
 D:\Taqi\Practice\WebAppStore\WebAppStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Taqi\Practice\WebAppStore\WebAppStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Taqi\Practice\WebAppStore\WebAppStore\obj\Debug\net6.0\WebAppStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Taqi\Practice\WebAppStore\WebAppStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Taqi\Practice\WebAppStore\WebAppStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

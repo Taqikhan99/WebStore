@@ -38,17 +38,17 @@
                             </li>
                         </ul>
 
-                        <ul class="ms-auto navbar-nav ">
+                        <ul class="ms-auto navbar-nav gap-2">
 
                             @if (signinmanager.IsSignedIn(User))
                             {
                                 <li><h6 class="text-dark mt-3 mx-3">@User.Identity?.Name</h6></li>
-                                <li><a class="btn btn-secondary mt-2" asp-controller="Account" asp-action="Logout">Logout</a></li>
+                                <li><a class="text-primary text-decoration-none mt-2" asp-controller="Account" asp-action="Signout">Logout</a></li>
                             }
                             else
                             {
-                                <li><a class="btn btn-secondary mt-2" asp-controller="Account" asp-action="Login">Login</a></li>
-                                <li><a class="btn btn-secondary mt-2" asp-controller="Account" asp-action="Register">Register</a></li>
+                                <li><a class="text-primary text-decoration-none mt-2" asp-controller="Account" asp-action="Login">Login</a></li>
+                                <li><a class="text-primary text-decoration-none mt-2" asp-controller="Account" asp-action="Register">Register</a></li>
                             }
 
 

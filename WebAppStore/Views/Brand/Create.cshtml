@@ -1,0 +1,88 @@
+﻿@model WebAppStore.ViewModels.CreateBrandViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="col-lg-12 mt-sm-30 mt-xs-30 mt-3">
+    <div class="card">
+        <div class="card-body">
+            @*@if (User.IsInRole("Admin"))
+                {
+                    <a asp-controller="Laptop" class="btn btn-primary" asp-action="Create">Create New</a>
+                }*@
+            <div class="d-sm-flex justify-content-between align-items-center mt-4">
+                <h4 class="header-title">Create Brand</h4>
+
+
+            </div>
+            <div class="trad-history mt-4">
+                <form method="post" enctype="multipart/form-data">
+
+                    <div class="row mt-3">
+                        <div class="col-md-8">
+                            <label class="col-sm-2 col-form-label">Brand Name</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" asp-for="BrandName">
+                                <span class="text-danger" asp-validation-for="BrandName"></span>
+                            </div>
+                        </div>
+                        <div class="col text-center ms-5">
+                            <h5 class="form-label  fw-bold"> Product Image</h5>
+                            <div class="imagebox">
+                                <img src="@Url.Content("~/Images/imgUpload.png")" width="250" id="imageShown" alt="Alternate Text" />
+                                <br />
+                                <br />
+                                <input type="file" id="inputfile" onchange="onFileChange()" name="ImageFile" asp-for="ImageFile" />
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12 px-4">
+                            <input type="submit" value="Create" class="btn btn-primary  " />
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<script>
+
+
+
+    function onFileChange() {
+        var imgbox=document.getElementById('imageShown')
+        var inputElem = document.getElementById('inputfile')
+
+        console.log('file changed')
+        if (inputElem.files && inputElem.files[0]) {
+
+            //reading and showing image using the URL.createObjectURL
+
+            //console.log(URL.createObjectURL(inputElem.files[0]))
+            //imgbox.src = URL.createObjectURL(inputElem.files[0])
+
+
+            //reading and showing image using the filereader
+
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                // Set the 'src' attribute of an img element
+                var imageDataURL = e.target.result;
+
+                imgbox.src = imageDataURL;
+            };
+            reader.readAsDataURL(inputElem.files[0]);
+        }
+
+
+    }
+
+
+</script>

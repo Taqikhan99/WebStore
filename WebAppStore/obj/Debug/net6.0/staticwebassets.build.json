@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Um3f95XIBEl/1T93V026m+qfkOHZkH91W0BJ8PO/IA0=",
+  "Hash": "Im9j4h7moiLJxkpA5PVan6P3rSdfyQRB//2xT98BRoM=",
   "Source": "WebAppStore",
   "BasePath": "_content/WebAppStore",
   "Mode": "Default",
@@ -1307,6 +1307,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\Images\\imgUpload.png",
+      "SourceId": "WebAppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\",
+      "BasePath": "_content/WebAppStore",
+      "RelativePath": "Images/imgUpload.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\imgUpload.png"
+    },
+    {
+      "Identity": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\Images\\toshiba.png",
+      "SourceId": "WebAppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\",
+      "BasePath": "_content/WebAppStore",
+      "RelativePath": "Images/toshiba.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\toshiba.png"
     },
     {
       "Identity": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\js\\site.js",

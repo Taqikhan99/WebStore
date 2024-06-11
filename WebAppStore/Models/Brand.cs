@@ -9,6 +9,7 @@ namespace WebAppStore.Models
         [MaxLength(100)]
         public string BrandName { get; set; }
 
-        public ICollection<Laptop> Laptops { get; set; }
+        public string? ImageUrl { get; set; }
+        public ICollection<Laptop> Laptops { get; set; }=new List<Laptop>();
     }
 }

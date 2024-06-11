@@ -159,15 +159,15 @@ namespace WebAppStore.Migrations
                         {
                             Id = "a610a115-9e98-4a4c-a005-082cd2661ddc",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "d5996322-bb5d-481c-a282-f887eae1926e",
+                            ConcurrencyStamp = "2ec5d20b-cb79-4ed5-a944-ee1917c9146d",
                             Email = "admin1@webappstore.com",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN1@WEBAPPSTORE.COM",
                             NormalizedUserName = "ADMIN1",
-                            PasswordHash = "AQAAAAEAACcQAAAAECLWALW0YN+154FhefWqlw7Oq8OK5N4IwbgrK00GnxUKiZa3fCmxPZyQmV+9dzGCMA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEIxv5IO2rK+06sXi7+emYsrudGvvxD+iJjq7h/nHiPvmfhnzh/Y2ieO69yUMoJn0tw==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "32f9eda1-5a6a-4b42-a647-330aad1c06f9",
+                            SecurityStamp = "60765a4b-eebf-424a-82be-3427607d832f",
                             TwoFactorEnabled = false,
                             UserName = "Admin1"
                         });
@@ -279,6 +279,9 @@ namespace WebAppStore.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Brands");
@@ -300,6 +303,13 @@ namespace WebAppStore.Migrations
                         .HasMaxLength(250)
                         .HasColumnType("nvarchar(250)");
 
+                    b.Property<string>("Generation")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("InsertedAt")
                         .HasColumnType("datetime2");
 
@@ -312,6 +322,9 @@ namespace WebAppStore.Migrations
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
+
+                    b.Property<int>("ProcessorId")
+                        .HasColumnType("int");
 
                     b.Property<int>("RamInGb")
                         .HasColumnType("int");

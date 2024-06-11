@@ -82,6 +82,20 @@ namespace WebAppStore.Controllers
                     //if succeed then signin redirect to home page
                     if (res.Succeeded)
                     {
+                        // Assign role to the user
+                        var roleResult = await userManager.AddToRoleAsync(user, "User");
+                        if (!roleResult.Succeeded)
+                        {
+                            foreach (var error in roleResult.Errors)
+                            {
+                                ModelState.AddModelError(string.Empty, error.Description);
+                            }
+                            // If role assignment fails, delete the user
+                            await userManager.DeleteAsync(user);
+                            return View(model);
+                        }
+
+
                         await signInManager.SignInAsync(user, false);
                         return RedirectToAction("Index", "Home");
                     }
@@ -103,6 +117,7 @@ namespace WebAppStore.Controllers
         }
 
         // Logout Action method
+        [HttpGet]
         public async Task<IActionResult> Signout()
         {
             await signInManager.SignOutAsync();

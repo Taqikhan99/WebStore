@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\WebAppStore.bundle.scp.css"
     },
     {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\Images\\imgUpload.png",
+      "PackagePath": "staticwebassets\\Images\\imgUpload.png"
+    },
+    {
+      "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\Images\\toshiba.png",
+      "PackagePath": "staticwebassets\\Images\\toshiba.png"
+    },
+    {
       "Id": "D:\\Taqi\\Practice\\WebAppStore\\WebAppStore\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },

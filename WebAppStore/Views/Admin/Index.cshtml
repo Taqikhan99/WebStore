@@ -6,41 +6,72 @@
 
 <!-- sales report area start -->
 <div class="sales-report-area mt-5 mb-5">
-    <div class="row">
-        <div class="col-md-5">
-            <div class="single-report mb-xs-30">
-                <div class="s-report-inner pr--20 pt--30 mb-3">
-                    <div class="icon"><i class="fa fa-user"></i></div>
+    <div class="row mt-3">
 
-                    <div class="s-report-title d-flex justify-content-between">
-                        <h4 class="header-title mb-0">USERS</h4>
-                        
-                    </div>
-                    <div class="d-flex justify-content-between pb-2">
-                        <h2>180</h2> 
 
+        <div class="col-md-5 ">
+            <a asp-controller="Admin" asp-action="UsersLists">
+                <div class="single-report mb-xs-30">
+                    <div class="s-report-inner pr--20 pt--30 mb-3">
+                        <div class="icon"><i class="fa fa-user"></i></div>
+
+                        <div class="s-report-title d-flex justify-content-between">
+                            <h4 class="header-title mb-0">USERS</h4>
+
+                        </div>
+                        <div class="d-flex justify-content-between pb-2">
+                            <h2>@ViewBag.Usercount</h2>
+
+                        </div>
                     </div>
+                    <canvas id="coin_sales1" height="100"></canvas>
                 </div>
-                <canvas id="coin_sales1" height="100"></canvas>
-            </div>
+            </a>
         </div>
+
         <div class="col-md-5">
-            <div class="single-report mb-xs-30">
-                <div class="s-report-inner pr--20 pt--30 mb-3">
-                    <div class="icon"><i class="fa fa-btc"></i></div>
-                    <div class="s-report-title d-flex justify-content-between">
-                        <h4 class="header-title mb-0">Total Products</h4>
-                        
+            <a asp-controller="Laptop" asp-action="Index">
+                <div class="single-report mb-xs-30">
+                    <div class="s-report-inner pr--20 pt--30 mb-3">
+                        <div class="icon"><i class="fa fa-laptop"></i></div>
+                        <div class="s-report-title d-flex justify-content-between">
+                            <h4 class="header-title mb-0">Total Products</h4>
+
+                        </div>
+                        <div class="d-flex justify-content-between pb-2">
+                            <h2>@ViewBag.laptopCount</h2>
+
+                        </div>
                     </div>
-                    <div class="d-flex justify-content-between pb-2">
-                        <h2>200</h2>
-                        
-                    </div>
+                    <canvas id="coin_sales2" height="100"></canvas>
                 </div>
-                <canvas id="coin_sales2" height="100"></canvas>
-            </div>
+            </a>
         </div>
-       
+
+
+    </div>
+    <div class="row mt-3">
+
+        <div class="col-md-5">
+            <a asp-controller="Admin" asp-action="BrandsList">
+                <div class="single-report mb-xs-30">
+
+                    <div class="s-report-inner pr--20 pt--30 mb-3">
+                        <div class="icon"><i class="fa fa-laptop"></i></div>
+                        <div class="s-report-title d-flex justify-content-between">
+                            <h4 class="header-title mb-0">Total Brands</h4>
+
+                        </div>
+                        <div class="d-flex justify-content-between pb-2">
+                            <h2>@ViewBag.brandCount</h2>
+
+                        </div>
+                    </div>
+                    <canvas id="coin_sales3" height="100"></canvas>
+                </div>
+            </a>
+        </div>
+
     </div>
 </div>
 <!-- sales report area end -->

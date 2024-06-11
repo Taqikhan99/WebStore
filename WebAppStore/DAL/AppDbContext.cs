@@ -16,6 +16,7 @@ namespace WebAppStore.DAL
         public DbSet<Brand> Brands { get; set; }
 
 
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

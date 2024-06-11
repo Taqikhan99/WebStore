@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WebAppStore.DAL;
+using WebAppStore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,9 @@ builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConn")));
 
+
+//register automapper
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // Register Identity
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 {
@@ -29,6 +33,8 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = "/Account/AccessDenied"; // Optional: Handle access denied
     options.SlidingExpiration = true;
 });
+
+builder.Services.AddScoped<IFileService,FileService>();
 
 var app = builder.Build();
 

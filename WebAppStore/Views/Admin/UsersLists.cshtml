@@ -1,0 +1,51 @@
+﻿@model List<WebAppStore.ViewModels.UsersViewListModel>
+@{
+    ViewData["Title"] = "UsersLists";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+
+<div class="col-lg-12 mt-sm-30 mt-xs-30 mt-3">
+    <div class="card">
+        <div class="card-body">
+            <div class="d-sm-flex justify-content-between align-items-center">
+                <h4 class="header-title">Users List</h4>
+
+
+            </div>
+            <div class="trad-history mt-4">
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="buy_order" role="tabpanel">
+                        <div class="table-responsive">
+                            @if (Model != null || Model.Any())
+                            {
+                                <table class="table table-bordered">
+                                    <tr class="heading-td">
+                                        <th>ID</th>
+                                        <th>Name</th>
+                                        <th>Email</th>
+                                        <th>Options</th>
+
+                                    </tr>
+                                    @for(int i = 0; i < Model.Count; i++)
+                {
+                    <tr>
+                        <td>@Model[i].UserId</td>
+                        <td>@Model[i].UserName</td>
+                        <td>@Model[i].Email</td>
+                        <td>
+                           
+                        </td>
+                    </tr>
+                }
+
+                                </table>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
